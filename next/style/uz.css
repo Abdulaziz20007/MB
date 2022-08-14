@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 23px;
+    padding: 8px;
+}
+a {
+    text-decoration-line: none;
+    background-color: #00f700;
+    border-radius: 5px;
+    padding: 4px;
+    border: 1px solid black;
+}
+div {
+    background-color: #0fa8e8;
+    margin-left: 0px;
+    box-shadow: 10px 5px 5px black;
+}
